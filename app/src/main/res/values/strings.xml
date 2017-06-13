@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ArielApp</string>
+    <string name="title_activity_join">JoinActivity</string>
+</resources>
